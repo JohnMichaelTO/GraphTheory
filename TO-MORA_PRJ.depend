@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1389627828 source:e:\efrei\l3\semestre_5\theorie des graphes\tp\to-mora_prj\to-mora_prj_main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<string>
+
+1390091322 source:h:\efrei\l3\semestre_5\theorie des graphes\tp\to-mora_prj\to-mora_prj_main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<string>
+
